@@ -1,0 +1,8 @@
+C:\Users\Vako\Desktop\GuessThis\GuessThis\bin\Debug\GuessThis.exe.config
+C:\Users\Vako\Desktop\GuessThis\GuessThis\bin\Debug\GuessThis.exe
+C:\Users\Vako\Desktop\GuessThis\GuessThis\bin\Debug\GuessThis.pdb
+C:\Users\Vako\Desktop\GuessThis\GuessThis\obj\Debug\GuessThis.csproj.AssemblyReference.cache
+C:\Users\Vako\Desktop\GuessThis\GuessThis\obj\Debug\GuessThis.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vako\Desktop\GuessThis\GuessThis\obj\Debug\GuessThis.csproj.CoreCompileInputs.cache
+C:\Users\Vako\Desktop\GuessThis\GuessThis\obj\Debug\GuessThis.exe
+C:\Users\Vako\Desktop\GuessThis\GuessThis\obj\Debug\GuessThis.pdb
